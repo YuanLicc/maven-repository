@@ -6,13 +6,13 @@
 ​	在`pom.xml`中的`<project>`标签内新增远程仓库即可，如下：
 
 ```xml
-  <repositories>
-    <repository>
-      <id>liuhuanting-maven-snapshot-repository</id>
-      <name>liuhuanting-maven-snapshot-repository</name>
-      <url>https://raw.github.com/liuhuanting/maven/master/</url>
-    </repository>
-  </repositories>
+<repositories>
+	<repository>
+		<id>YuanLi-maven-repository</id>
+		<name>YuanLi-maven-repository</name>
+		<url>https://raw.github.com/YuanLicc/maven-repository/master/</url>
+	</repository>
+</repositories>
 ```
 
 ### 列表
