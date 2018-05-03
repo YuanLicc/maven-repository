@@ -7,11 +7,11 @@
 
 ```xml
 <repositories>
-	<repository>
-		<id>YuanLi-maven-repository</id>
-		<name>YuanLi-maven-repository</name>
-		<url>https://raw.github.com/YuanLicc/maven-repository/master/</url>
-	</repository>
+    <repository>
+        <id>YuanLi-maven-repository</id>
+        <name>YuanLi-maven-repository</name>
+        <url>https://raw.github.com/YuanLicc/maven-repository/master/</url>
+    </repository>
 </repositories>
 ```
 
